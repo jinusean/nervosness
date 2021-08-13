@@ -16,11 +16,5 @@
 0x99E339951a4507E54d131fFC0B2BEb2A866A7b84
 ```
 
-<<<<<<< HEAD
----
-=======
---
->>>>>>> 3e146e5 (Complete task 3)
-
 <b>Bonus</b>: Get Layer 2 SUDT ID from Layer 1 SUDT Issuer Lock Hash (AKA SUDT Type Args)
 ![SUDT ID](./bonus-sudt-id.png)

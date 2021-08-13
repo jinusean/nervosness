@@ -1,16 +1,9 @@
 # Task 7
 
 ## 1. Media
+https://user-images.githubusercontent.com/6874981/129195934-4b6c5ded-f812-4949-b47f-5e9bc388acd7.mp4
 
-![disconnected](./images/disconnected.png)*Not yet connected to Metamask*
-
-![connected](./images/connected.png)*Connected to Metamask*
-
-![Signature Request](./images/signature-request.png)*Click adopt Ethel*
-
-![Transacting](./images/transacting.png)*Transacting...*
-
-![Transaction complete](./images/transaction-complete.png)*Ethel adopted!*
+[Images](./images.md)
 
 ## 2. Github Link
 [https://github.com/jinusean/CKB-pet-shop](https://github.com/jinusean/CKB-pet-shop)
